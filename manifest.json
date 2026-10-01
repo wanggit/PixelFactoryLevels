@@ -1,11 +1,11 @@
 {
  "formatVersion": 1,
- "latestVersion": 1,
+ "latestVersion": 2,
  "minAppVersion": "0.1.0",
  "full": {
-  "version": 1,
-  "url": "bundle-v1.json",
-  "checksum": "8ea8e52564d000bd3590723d8c7a1fa2ad67228b1cac5448ab279cdf25641b91",
-  "levelCount": 1
+  "version": 2,
+  "url": "bundle-v2.json",
+  "checksum": "c45bb1f1656166584800010718aa4e05e6f5e367bae14c2ab9149b232df496af",
+  "levelCount": 2
  }
 }
